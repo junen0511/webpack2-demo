@@ -1,0 +1,12 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
